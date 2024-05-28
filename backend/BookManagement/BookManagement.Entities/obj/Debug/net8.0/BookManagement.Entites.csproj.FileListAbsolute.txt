@@ -1,0 +1,14 @@
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Entities\bin\Debug\net8.0\BookManagement.Entites.deps.json
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Entities\bin\Debug\net8.0\BookManagement.Entites.runtimeconfig.json
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Entities\bin\Debug\net8.0\BookManagement.Entites.dll
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Entities\bin\Debug\net8.0\BookManagement.Entites.pdb
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Entities\obj\Debug\net8.0\BookManagement.Entites.csproj.AssemblyReference.cache
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Entities\obj\Debug\net8.0\BookManagement.Entites.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Entities\obj\Debug\net8.0\BookManagement.Entites.AssemblyInfoInputs.cache
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Entities\obj\Debug\net8.0\BookManagement.Entites.AssemblyInfo.cs
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Entities\obj\Debug\net8.0\BookManagement.Entites.csproj.CoreCompileInputs.cache
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Entities\obj\Debug\net8.0\BookManagement.Entites.dll
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Entities\obj\Debug\net8.0\refint\BookManagement.Entites.dll
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Entities\obj\Debug\net8.0\BookManagement.Entites.pdb
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Entities\obj\Debug\net8.0\BookManagement.Entites.genruntimeconfig.cache
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Entities\obj\Debug\net8.0\ref\BookManagement.Entites.dll

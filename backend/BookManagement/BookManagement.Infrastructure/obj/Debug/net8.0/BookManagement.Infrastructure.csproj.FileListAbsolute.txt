@@ -1,0 +1,17 @@
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Infrastructure\bin\Debug\net8.0\BookManagement.Infrastructure.deps.json
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Infrastructure\bin\Debug\net8.0\BookManagement.Infrastructure.runtimeconfig.json
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Infrastructure\bin\Debug\net8.0\BookManagement.Infrastructure.dll
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Infrastructure\bin\Debug\net8.0\BookManagement.Infrastructure.pdb
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Infrastructure\bin\Debug\net8.0\BookManagement.Entites.dll
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Infrastructure\bin\Debug\net8.0\BookManagement.Entites.pdb
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Infrastructure\obj\Debug\net8.0\BookManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Infrastructure\obj\Debug\net8.0\BookManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Infrastructure\obj\Debug\net8.0\BookManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Infrastructure\obj\Debug\net8.0\BookManagement.Infrastructure.AssemblyInfo.cs
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Infrastructure\obj\Debug\net8.0\BookManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Infrastructure\obj\Debug\net8.0\BookMana.A332F634.Up2Date
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Infrastructure\obj\Debug\net8.0\BookManagement.Infrastructure.dll
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Infrastructure\obj\Debug\net8.0\refint\BookManagement.Infrastructure.dll
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Infrastructure\obj\Debug\net8.0\BookManagement.Infrastructure.pdb
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Infrastructure\obj\Debug\net8.0\BookManagement.Infrastructure.genruntimeconfig.cache
+D:\Github\Net\MiddleAssignment\backend\BookManagement\BookManagement.Infrastructure\obj\Debug\net8.0\ref\BookManagement.Infrastructure.dll
